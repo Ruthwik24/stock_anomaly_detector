@@ -1,0 +1,32 @@
+2025-07-08 13:07:06,182 - stock_monitor - INFO - Starting monitoring for stocks: AAPL, MSFT, GOOGL
+2025-07-08 13:07:06,183 - stock_monitor - INFO - Check interval: 300 seconds
+2025-07-08 13:07:13,242 - alert_manager - INFO - Email alert sent for AAPL
+2025-07-08 13:07:17,669 - alert_manager - INFO - Email alert sent for AAPL
+2025-07-08 13:07:22,746 - alert_manager - INFO - Email alert sent for MSFT
+2025-07-08 13:07:27,028 - alert_manager - INFO - Email alert sent for MSFT
+2025-07-08 13:07:31,894 - alert_manager - INFO - Email alert sent for GOOGL
+2025-07-08 13:07:37,311 - alert_manager - INFO - Email alert sent for GOOGL
+2025-07-08 13:12:42,552 - alert_manager - INFO - Email alert sent for AAPL
+2025-07-08 13:12:47,170 - alert_manager - INFO - Email alert sent for AAPL
+2025-07-08 13:12:51,872 - alert_manager - INFO - Email alert sent for MSFT
+2025-07-08 13:12:56,472 - alert_manager - INFO - Email alert sent for MSFT
+2025-07-08 13:13:01,329 - alert_manager - INFO - Email alert sent for GOOGL
+2025-07-08 13:13:05,970 - alert_manager - INFO - Email alert sent for GOOGL
+2025-07-08 13:18:11,115 - alert_manager - INFO - Email alert sent for AAPL
+2025-07-08 13:18:15,817 - alert_manager - INFO - Email alert sent for AAPL
+2025-07-08 13:18:20,646 - alert_manager - INFO - Email alert sent for MSFT
+2025-07-08 13:18:25,270 - alert_manager - INFO - Email alert sent for MSFT
+2025-07-08 13:18:30,134 - alert_manager - INFO - Email alert sent for GOOGL
+2025-07-08 13:18:34,902 - alert_manager - INFO - Email alert sent for GOOGL
+2025-07-08 13:23:43,395 - alert_manager - INFO - Email alert sent for AAPL
+2025-07-08 13:23:48,005 - alert_manager - INFO - Email alert sent for AAPL
+2025-07-08 13:23:54,756 - alert_manager - INFO - Email alert sent for MSFT
+2025-07-08 13:23:59,411 - alert_manager - INFO - Email alert sent for MSFT
+2025-07-08 13:24:05,566 - alert_manager - INFO - Email alert sent for GOOGL
+2025-07-08 13:24:10,082 - alert_manager - INFO - Email alert sent for GOOGL
+2025-07-08 13:29:16,248 - alert_manager - INFO - Email alert sent for AAPL
+2025-07-08 13:29:21,010 - alert_manager - INFO - Email alert sent for AAPL
+2025-07-08 13:29:25,951 - alert_manager - INFO - Email alert sent for MSFT
+2025-07-08 13:29:30,594 - alert_manager - INFO - Email alert sent for MSFT
+2025-07-08 13:29:35,409 - alert_manager - INFO - Email alert sent for GOOGL
+2025-07-08 13:29:40,103 - alert_manager - INFO - Email alert sent for GOOGL
